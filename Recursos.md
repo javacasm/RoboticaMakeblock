@@ -21,6 +21,8 @@
 [Practicas con Scratch 2.0](http://download.makeblock.com/Scratch2.0TheAdventuresofMike.pdf)
 
 
+[Prácticas con mbot de Javier Fernández Panadero](https://lacienciaparatodos.files.wordpress.com/2017/05/prc3a1cticas-mbot-javier-fernc3a1ndez-panadero-05-05-2017.pdf)
+
 [Retos](https://tecnoloxia.org/mclon/o-robot-en-movemento/)
 
 ## Codigos mando
