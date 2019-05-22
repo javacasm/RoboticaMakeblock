@@ -63,3 +63,14 @@ Es el software que conecta la web con los dispositivos
 [Guia de conexion](http://www.mblock.cc/doc/en/part-one-basics/mlink-quick-start-guide.html)
 
 https://www.programoergosum.com/cursos-online/robotica-educativa
+
+
+## Pinout de todos los conectores (Cómo conectar otro tipo de cables)
+
+![Pinout](https://makeblock.es/foro/serve/attachment&path=58837cb976bab.jpg)
+
+
+
+![Color cables](https://makeblock.es/foro/serve/attachment&path=58833314a95a8.png)
+
+[Fuente: Pinout de todos los conectores](https://makeblock.es/foro/topic/274/se-puede-conectar-un-sensor-ultrasonidos-que-no-sea-de-mblock)
