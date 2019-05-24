@@ -11,3 +11,19 @@ Vamos a hacer un ejemplo sencillo donde mostremos el valor leído en el display 
 ![SensorLuz_7Segmentos](../images/SensorLuz_7Segmentos.png)
 
 [Código](../Ejemplos/SensorLuz_LDR.sb2)
+
+
+![Montaje LDR](../images/LDR_bb.png)
+
+Ni el sensor de luz ni la resistencia tiene polaridad
+
+![LDR_bb.png](../images/LDR_bb.png)
+
+Es un montaje electrónico muy usado que se denomina divisor de tensión
+
+![LDR_bb.png](../images/LDR_bb.png)
+
+
+![Montaje 2xLDR](../images/2xLDR_bb.png)
+    
+![Esquematico 2xLDR](../images/2xLDR_esquematico.png)
