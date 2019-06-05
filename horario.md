@@ -46,7 +46,7 @@
 * Otras Plataformas: microbit  (1h)
 
 ### Tarde
-#### Comunicaciones: AppInventor (3h)
-1. [Introducción a AppInventor](./AppInventor/AppInventor_tutorial.md)
-1. [Controlando MakeBlock desde AppInventor](./AppInventor/AppInventor_makeblock.md)
-1. [Recursos](./AppInventor/AppInventorRecursos.md)
+#### Comunicaciones 
+* Introducción a AppInventor (1h)
+* AppInventor y makeblock (2h)
+
