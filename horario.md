@@ -25,11 +25,16 @@
 * Creando bloques: funciones (1h)
 * Utilizando Arrays (1h)
 
+#### Robótica
+* Sensores II. Ejemplos (2h)
+
 ### Tarde
 
 #### Robótica
-* Sensores II. Ejemplos (2h)
+
 * Siguiendo el camino: siguelíneas (1h)
+* Esquivando obstáculos (1h)
+* Otras Plataformas: mBot Rosa (1h)
 
 
 ## Día 3
@@ -38,7 +43,7 @@
 * Videojuegos con Scratch (2h)
 * Código Arduino (2h)
 #### Robótica
-* Otras Plataformas: mBot Rosa (1h)
+* Otras Plataformas: microbit  (1h)
 
 ### Tarde
 #### Comunicaciones: AppInventor (3h)
