@@ -6,10 +6,10 @@
 * [Motivación y  Ejemplos](./MotivacionEjemplos.md) (1h)
 * [Aprendizaje de técnicas vs Desarrollo de proyectos](./EstudioVSProyectos.md) (1h)
 #### Scratch
-* Introducción ¿por qué usar Scratch? (1h)
-* Programación orientada a Eventos (1h)
+* Introducción [¿por qué usar Scratch?](./PorqueScratch.md) (1h)
+* [Programación orientada a Eventos](./ProgramacionEventos.md) (1h)
 #### Robótica
-* Interacción con robots MakeBlock (1h)
+* [Interacción con robots MakeBlock](./InteracionRobots.Makeblock.md) (1h)
 
 ### Tarde
 #### Robótica
@@ -22,11 +22,11 @@
 ## Día 2
 ### Mañana
 #### Pedagogía
-* Trabajando por proyectos (1h)
+* [Trabajando por proyectos](./TrabajandoProyectos.md) (1h)
 
 #### Programación avanzada en Scratch
-* Creando bloques: funciones (1h)
-* Utilizando Arrays (1h)
+* [Creando bloques: funciones](./ScratchFunciones.md) (1h)
+* [Utilizando Arrays](./ScratchArrays.md) (1h)
 
 #### Robótica
 * [Sensores II. Ejemplos](./Sensores_II.md) (2h)
@@ -35,18 +35,18 @@
 
 #### Robótica
 
-* Siguiendo el camino: siguelíneas (1h)
-* Esquivando obstáculos (1h)
-* Otras Plataformas: mBot Rosa (1h)
+* [Siguiendo el camino: siguelíneas](./Siguelineas.md) (1h)
+* [Esquivando obstáculos](./Obstaculos.md) (1h)
+* Otras Plataformas: [mBot Rosa](./mBotRosa.md) (1h)
 
 
 ## Día 3
 ### Mañana
 #### Programación
-* Videojuegos con Scratch (2h)
-* Código Arduino (2h)
+* [Videojuegos con Scratch](./VideojuegosScratch.md) (2h)
+* [Código Arduino](./CodigoArduino.md) (2h)
 #### Robótica
-* Otras Plataformas: microbit  (1h)
+* Otras Plataformas: [microbit](../Microbit/Microbit.md)  (1h)
 
 ### Tarde
 #### Comunicaciones 
