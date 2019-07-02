@@ -5,7 +5,7 @@
     * Trabajo en equipo
     * Revisión del código por pares
         
-* Podemos hacer que programamen por separado y que envíen el programa (vía correo o pendrive o similar) para que se programe alguno de los robots disponibles
+* Podemos hacer que programen por separado y que envíen el programa (vía correo o pendrive o similar) para que se programe alguno de los robots disponibles
     * Fomentamos la paciencia y la cooperación
     * Revisión del código antes de enviarlo
     * Se discuten mejoras y variantes

@@ -3,7 +3,7 @@
 ## Dia 1
 ### Mañana
 #### Pedagogía
-* Motivación y  Ejemplos (1h)
+* [Motivación y  Ejemplos](./MotivacionEjemplos.md) (1h)
 * Aprendizaje de técnicas vs Desarrollo de proyectos (1h)
 #### Scratch
 * Introducción ¿por qué usar Scratch? (1h)
@@ -47,6 +47,7 @@
 
 ### Tarde
 #### Comunicaciones 
-* Introducción a AppInventor (1h)
-* AppInventor y makeblock (2h)
+* [Introducción a AppInventor (1h)](./AppInventor/AppInventor_tutorial.md)
+* [Controlando MakeBlock desde AppInventor 2h)](./AppInventor/AppInventor_makeblock.md)
+* [Recursos AppInventor](./AppInventor/AppInventorRecursos.md)
 
