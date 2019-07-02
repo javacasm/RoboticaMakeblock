@@ -1,6 +1,14 @@
 # Recursos
 
+[Guía de montaje de Ranger](./Recursos/guia-de-montaje-mbot-ranger-makeblock.pdf)
 
+[Programación con la App](./Recursos/manual-programacion-mbot-ranger-app-makeblock.pdf)
+
+[Guias de Ranger](https://www.makeblock.es/soporte/ranger/)
+
+[Diviértete con Ranger](https://issuu.com/susanaoubina/docs/divirti__ndome_con_mbot_ranger__lib)
+
+[Diviértete con mbot](https://issuu.com/susanaoubina/docs/divirti__ndome_con_mbot_guia_de_man)
 
 [Modelo Ranger (Starter Kit)](http://learn.makeblock.com/starter-robot-kit-ir-version/#mBlock)
 
@@ -21,7 +29,7 @@
 [Practicas con Scratch 2.0](http://download.makeblock.com/Scratch2.0TheAdventuresofMike.pdf)
 
 
-[Prácticas con mbot de Javier Fernández Panadero](https://lacienciaparatodos.files.wordpress.com/2017/05/prc3a1cticas-mbot-javier-fernc3a1ndez-panadero-05-05-2017.pdf)
+[Prácticas con mbot de Javier Fernández Panadero](https://lacienciaparatodos.files.wordpress.com/2017/05/prc3a1cticas-mbot-javier-fernc3a1ndez-panadero-05-05-2017.pdf) 
 
 [Retos](https://tecnoloxia.org/mclon/o-robot-en-movemento/)
 
@@ -76,3 +84,11 @@ https://www.programoergosum.com/cursos-online/robotica-educativa
 ![Color cables](https://makeblock.es/foro/serve/attachment&path=58833314a95a8.png)
 
 [Fuente: Pinout de todos los conectores](https://makeblock.es/foro/topic/274/se-puede-conectar-un-sensor-ultrasonidos-que-no-sea-de-mblock)
+
+https://makeblock.es/foro/topic/306/conectar-un-sensor-de-nivel-de-agua-a-un-mbot
+
+https://makeblock.es/foro/topic/306/conectar-un-sensor-de-nivel-de-agua-a-un-mbot
+
+## Cables
+
+[Compra de cables](https://es.aliexpress.com/item/32967268633.html)
