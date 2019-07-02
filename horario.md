@@ -13,7 +13,7 @@
 
 ### Tarde
 #### Robótica
-* Sensores I. Ejemplos (2h)
+* [Sensores I. Ejemplos](./Sensores_I.md) (2h)
 * Otras plataformas: Makey-Makey (1h)
 
 ## Día 2
@@ -26,7 +26,7 @@
 * Utilizando Arrays (1h)
 
 #### Robótica
-* Sensores II. Ejemplos (2h)
+* [Sensores II. Ejemplos](./Sensores_II.md) (2h)
 
 ### Tarde
 
