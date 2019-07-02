@@ -13,3 +13,6 @@
 [Reto #45. Sigue líneas con marcas de color con mBot.](https://juegosrobotica.es/retos/reto-45/)
 
  [Reto #46. Semáforo con control de aforo con mBot.](https://juegosrobotica.es/retos/reto-46/)
+ 
+ 
+[Caja fuerte](https://www.youtube.com/watch?v=wi0lgvSRwQI&feature=youtu.be)
