@@ -23,7 +23,7 @@ Usamos un montaje en oruga que proporciona buena tracción, aunque hace al robot
 
 ![3ruedas](../images/mBot-Ranger-Transformable-STEM-Educational-Robot-Kit-04-500x554.jpg)
 
-### 2 ruedas en equilibro
+### 2 ruedas en equilibro (Avanzado y con versión nueva de Ranger)
 
 Haremos un robot capaz de mantener el equilibro sobre 2 ruedas 
 
