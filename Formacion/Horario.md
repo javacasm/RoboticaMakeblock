@@ -4,7 +4,7 @@
 ### Mañana
 #### Pedagogía
 * [Motivación y  Ejemplos](./MotivacionEjemplos.md) (1h)
-* Aprendizaje de técnicas vs Desarrollo de proyectos (1h)
+* [Aprendizaje de técnicas vs Desarrollo de proyectos](./EstudioVSProyectos.md) (1h)
 #### Scratch
 * Introducción ¿por qué usar Scratch? (1h)
 * Programación orientada a Eventos (1h)
@@ -15,6 +15,9 @@
 #### Robótica
 * [Sensores I. Ejemplos](./Sensores_I.md) (2h)
 * Otras plataformas: Makey-Makey (1h)
+    1. [Presentacion de Makey-Makey](./MakeyMakey/MakeyMakeyRecursos.md)
+    1. [Makey-Makey con MakeBlock](./MakeyMakey/MakeyMakeyMakeblock.md)
+    1. [Presentacion de Makey-Makey](./MakeyMakey/MakeyMakeyRecursos.md)
 
 ## Día 2
 ### Mañana
