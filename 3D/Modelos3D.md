@@ -10,11 +10,11 @@
 
 [Soporte sensores siguelineas makeblock](https://www.tinkercad.com/things/6PsHgiIDqYq-ir-sensor-for-makeblock-ranger-v02)
 
-![soporte IRsensor](../images/soporteIRSensorMakeblock.mpg)
+![soporte IRsensor](../images/soporteIRSensorMakeblock.png)
 
 [Rueda para robot makeblock](https://www.tinkercad.com/things/4yNFUFEvpx8-makeblock-motor-wheel-support-needed)
 
-![Rueda makeblock](../images/RuedaMakeBlock.png)
+![Rueda makeblock](../images/RuedaMakeblock.png)
 
 [Pinza accionada por servo para robot makeblock](https://www.tinkercad.com/things/1bbqR13OB4j-micro-servo-claw-for-mbot)
 
