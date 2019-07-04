@@ -10,5 +10,17 @@
 
 [EstudioVSProyectos.md](./Formacion/EstudioVSProyectos.md) 0%
 
+~~[Microbit](./Microbit/Microbit.md) 100%~~
 
-[Microbit](./Microbit/Microbit.md) 0%
+Formacion/CodigoArduino.md
+
+Formacion/InteracionRobots.Makeblock.md
+Formacion/mBotRosa.md
+Formacion/Obstaculos.md
+Formacion/PorqueScratch.md
+Formacion/ProgramacionEventos.md
+Formacion/ScratchArrays.md
+Formacion/ScratchFunciones.md
+Formacion/Siguelineas.md
+Formacion/TrabajandoProyectos.md
+Formacion/VideojuegosScratch.md
