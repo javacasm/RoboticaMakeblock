@@ -1,12 +1,6 @@
 ## 3D: Recursos 3D, modelos y diseños para complementar nuestros robots
 
-Actividades:
-
-
 ## AppInventor: documentación sobre el entorno de programacion 
-AppInventor_makeblock.md
-AppInventorRecursos.md
-AppInventor_tutorial.md
 
 ## Ejemplos:
 AlarmaSonora.sb2
