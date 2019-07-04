@@ -2,6 +2,9 @@
 
 ## Dia 1
 ### Mañana
+
+* [Estructura de la documentación](../EstructuraDocumentacion.md)
+
 #### Pedagogía
 * [Motivación y  Ejemplos](./MotivacionEjemplos.md) (1h)
 * [Aprendizaje de técnicas vs Desarrollo de proyectos](./EstudioVSProyectos.md) (1h)
