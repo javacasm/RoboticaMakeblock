@@ -24,7 +24,7 @@ A quien responda
     
 ### Conceptos a buscar
 * Sensores: tipos y lo que miden
-* Actuadores: motores+mecánica
+* Actuadores: motores + mecánica
 * Cerebro: tipo de placas de control. Comparación de capacidades entre Arduino y un móvil
 * Alimentación: baterías, paneles solares,...
 
