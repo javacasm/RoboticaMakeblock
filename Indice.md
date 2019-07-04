@@ -1,6 +1,6 @@
  # Indice
 
- 1. [¿Qué es la robótica?](./Fichas/IniciacionRobotica.md)
+ 1. 
  1. [Arquitectura robots](./Fichas/ArquitecturaRobots.md)
  1. [Componentes del kit](./Fichas/ComponentesKit.md)
  1. [Introducción a la programación](./IniciacionProgramacion.md)
