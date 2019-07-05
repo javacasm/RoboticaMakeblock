@@ -83,12 +83,12 @@ VideojuegosScratch.md
 
 
 
-MakeyMakey: documentación sobre la placa Makey-Makey
+## MakeyMakey: documentación sobre la placa Makey-Makey
 
 
-Microbit: ocumentación sobre la placa Microbit
+## Microbit: ocumentación sobre la placa Microbit
 
-Recursos: Complementos a la documentación elaborada
+## Recursos: Complementos a la documentación elaborada
 guia-de-montaje-mbot-ranger-makeblock.pdf
 Ideas.md
 IniciacionProgramacion.md
@@ -96,6 +96,6 @@ manual-programacion-mbot-ranger-app-makeblock.pdf
 practicas-mbot-javier-fernandez-panadero-05-05-2017.pdf
 Recursos.md
 
-Scratch: documentación sobre el entorno de programacion Scratch
+## Scratch: documentación sobre el entorno de programacion Scratch
 Scratch_avanzado.md
 Scratch.md
