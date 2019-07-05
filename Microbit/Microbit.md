@@ -117,14 +117,14 @@ Los programas se guardan por defecto en nuestro navegador
 
 Seleccionamos el idioma
 
-![language](./images/SelecionarIdioma.png)
+![language](../images/SelecionarIdioma.png)
 
 La pantalla: 
 * A la izquierda, Podemos simular nuestro programa
 * Centor las paletas de bloques
 * Bloques de mi programa
 
-![inicio](./images/Incio_bloques.png)
+![inicio](../images/Incio_bloques.png)
 
 Añadir nuestros bloques en onStart (para que se ejecute al principio) o forever (para que se ejecute repetitivamente)
 
