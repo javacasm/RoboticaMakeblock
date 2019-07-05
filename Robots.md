@@ -70,4 +70,4 @@ Son 4 las fases para construir un Robot
   * CPU (usamos un tipo especial llamado microncontroladores - Arduino)
   * Interruptores
   * Sensores
-4. Informatica: crearemos un programa capaz de controlar los elementos y hacer cumplir al robot las funciones que necesitamos
+4. Informatica: crearemos un programa capaz de controlar los elementos y hacer cumplir al robot las funciones que necesitamos	
