@@ -12,7 +12,7 @@ Su uso es muy sencillo basta con usar el bloque que nos permite mostrar un núme
 
 Usaremos una variable que servirá como contador y cuyo valor iremos incrementando en cada iteración
 
-![ContadorEn7Segmentos](../images/ContadorEn7Segmentos.png)
+![ContadorEn7Segmentos](../images/Contador7Segmentos.png)
 
 [Ejemplo contador 7 segmentos](../Ejemplos/ContadorEn7Segmentos.sb2)
 
