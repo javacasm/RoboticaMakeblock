@@ -2,7 +2,7 @@
 
 Vamos a aprender a usar un Pulsador/Microinterruptor
 
-![Microinterruptor.md](../images/Microinterruptor.jpg)
+![Microinterruptor](../images/Microinterruptor.jpg)
 
 Usaremos el módulo [Adaptador Arduino](./AdaptadorArduino.md) para conectarlo
 
