@@ -4,7 +4,7 @@
 
 [AppInventor_makeblock](./AppInventor/AppInventor_makeblock.md) 0% 
 
-[Sensores II](./Formacion/Sensores_I.md) 0%
+[Sensores II](./Formacion/Sensores_I.md) 80%
 
 [Sensores I](./Formacion/Sensores_II.md) 0%
 
