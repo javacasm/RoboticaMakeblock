@@ -6,13 +6,19 @@ Usaremos una ampliación de Scratch (Ventajas del código abierto!!) llamada mBl
 
 ### Grupos de componentes
 
-1. Movimiento
-1. Control
-1. Apariencia
-1. Eventos
-1. Datos
-1. ...
+* Movimiento
+* Apariencia
+* Sonidos
+* Lápiz
+* Datos
+* Eventos
+* Control
+* Sensores
+* Operadores
+* Robots
+* Más bloques
 
+## Formas de los bloques
 
 ### Abrir/Guardar/Compartir
 
