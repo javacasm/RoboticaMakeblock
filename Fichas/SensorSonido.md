@@ -13,3 +13,9 @@ Un programa sencillo que lo usa
 ![ProgramaSencillo](../images/SensorSonido.sb2)
 
 [SensorSonido.sb2](../Ejemplos/SensorSonido.sb2)
+
+Ejemplos/Detector de sonido.sb2
+
+### También podemos usar el micrófono del PC
+
+Ejemplos/ControlVolumen.sb2
