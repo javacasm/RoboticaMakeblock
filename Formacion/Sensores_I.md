@@ -9,3 +9,5 @@
 ### [Módulo 4 Leds RGB](../Fichas/4LedsRGB.md)
 
 ### [Potenciómetro](../Fichas/Potenciometro.md)
+
+### [Sensor de Sonido](../Fichas/SensorSonido.md)
