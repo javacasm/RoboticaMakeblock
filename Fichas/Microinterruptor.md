@@ -14,3 +14,10 @@ Conectaremos el pin central del microinterruptor al pin S2 del Slot2 y el pin ex
 Podremos controlar su estado con el bloque
 
 ![Bloque_Pulsador](../images/Bloque_Pulsador.png)
+
+
+Ejemplos/Contador_Pulsador_Filtrado_mbot.sb2
+Ejemplos/Contador_Pulsador_Filtrado_ranger.sb2
+Ejemplos/Contador_Pulsador_mbot.sb2
+
+### Ejemplo: [midiendo Tiempos](../Fichas/TiempoEntrePulsaciones.md)
