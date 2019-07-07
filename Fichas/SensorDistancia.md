@@ -37,6 +37,8 @@ Piensa otras utilidades del sensor de distancia:
 * Sistema de alarma
 * ...
 
+Ejemplos/MedidorDistancias.sb2
+
 ### Referencias
 
 [Funcionamiento de un sensor de ultrasonidos por Luis Llamas](https://www.luisllamas.es/medir-distancia-con-arduino-y-sensor-de-ultrasonidos-hc-sr04/)
