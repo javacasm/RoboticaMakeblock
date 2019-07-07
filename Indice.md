@@ -1,10 +1,10 @@
  # Indice
 
  1. 
- 1. [Arquitectura robots](./Fichas/ArquitecturaRobots.md)
+ 1. 
  1. [Componentes del kit](./Fichas/ComponentesKit.md)
- 1. [Introducción a la programación](./IniciacionProgramacion.md)
- 1. [Presentacion de Scratch](./ScratchPresentacion.md)
+ 1. 
+ 1. 
  1. [Dibujando con Scratch](./ScratchDibujando.md)
  1. [Interacción con Scratch](./ScratchInteraccion.md)
 
