@@ -15,4 +15,4 @@ Podemos usarlo desde [acceso web](https://scratch.mit.edu/projects/editor) y com
 Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 
 
-[Presentacion de Scratch](./ScratchPresentacion.md)
+[Presentacion de Scratch](./ScratchIniciacion.md)
