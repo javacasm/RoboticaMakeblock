@@ -1,12 +1,17 @@
 ## Estudio de conceptos VS Trabajo de proyectos
 
-Conceptos
 
-Fases de un Proyecto
+
+Aprender Conceptos -> Aplicarlos
+
+### Fases de un Proyecto
 
 Estudio -> Diseño -> Prototipo -> Producción
 
-Entregables:
+### Entregables:
 
 Bocetos, prototipos, documentación, tests...
 
+
+
+##Ejemplo: Vamos a definir un proyecto, sus fases, versiones,....
