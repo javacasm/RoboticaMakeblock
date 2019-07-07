@@ -96,3 +96,6 @@ Los parámetros tienen un rango: el color entre 0 y 200 de manera cíclica
 
 Ejemplos/Poligono.sb2
 Ejemplos/Rango de colores.sb2
+Ejemplos/Cuadrado de Colores.sb2
+Ejemplos/Copo de nieve coloreado con bloque cuadrado.sb2
+Ejemplos/Copo de nieve coloreado.sb2
