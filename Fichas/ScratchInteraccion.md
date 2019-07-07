@@ -46,3 +46,5 @@ ScratchInteraccion.md
 ### Ejercicio: crea una animación con varios disfraces
 
 ![disfraces](../images/disfraz.png)
+
+
