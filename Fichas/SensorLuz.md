@@ -27,3 +27,6 @@ Es un montaje electrónico muy usado que se denomina divisor de tensión
 ![Montaje 2xLDR](../images/2xLDR_bb.png)
     
 ![Esquematico 2xLDR](../images/2xLDR_esquematico.png)
+
+
+Ejemplos/Dibujando_2xSensorLuz_LDR.sb2
