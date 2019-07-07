@@ -7,3 +7,6 @@
 Ejercicio: Dibujar una estrella formada por n polígonos de m lados, cada uno de un color
 
 ![bloques propioes](./images/BloquesPropios.png)
+
+
+Ejemplos/CreandoBloques.sb2
