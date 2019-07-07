@@ -14,12 +14,14 @@
 
 ### [Potenciómetro](../Fichas/Potenciometro.md)
 
-## [Sensor de Luz](../Fichas/SensorLuz.md)
+### [Sensor de Sonido](../Fichas/SensorSonido.md)
 
-## [Sensor infrarrojo](../Fichas/SensorInfrarrojo.md)
+### [Sensor de Luz](../Fichas/SensorLuz.md)
 
-## [Sensor de final de carrera](../Ficha/Microiterruptor.md)
+### [Sensor infrarrojo](../Fichas/SensorInfrarrojo.md)
 
-## [Sensor de color](../SensorColor.md)
+### [Sensor de final de carrera](../Ficha/Microiterruptor.md)
+
+### [Sensor de color](../SensorColor.md)
 
 ## Tipos de motores y su uso
