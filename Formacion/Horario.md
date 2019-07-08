@@ -1,4 +1,4 @@
-# Horario
+# Formación robótica con Scratch/makeBlock
 
 ## Dia 1
 ### Mañana
