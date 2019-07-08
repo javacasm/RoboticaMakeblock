@@ -18,6 +18,7 @@ Si pulsamos en un bloque lo ejecutamos aunque no forme parte del programa
 
 Si se realizan movimientos del objeto o dibujos esto se harán sobre el lienzo
 
+
 ### Funcionamiento
 
 Tenemos 2 modos de funcionamiento:
@@ -37,8 +38,7 @@ Dado que la placa base de nuestro robot está basada en Arduino, lo que hacemos 
 
 ![Modo Arduino](../images/mBlockModoArduino.png)
 
-Vemos como muchas de las paletas se desactivan y aparece el código Arduino que genera nuestro programar. Si subimos el código al robot no podremos volver a usar el modo "Scratch" hasta que le instalemos el firmare
-
+Vemos como muchas de las paletas se desactivan y aparece el código Arduino que genera nuestro programar. Si subimos el código al robot no podremos volver a usar el modo "Scratch" hasta que le instalemos el firmware
 
 ||Modo Scratch|Modo Arduino|
 |---|---|---|
