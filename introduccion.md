@@ -17,14 +17,14 @@ Con los componentes del kits podemos realizar distintos montajes que referenciar
 
 Usamos un montaje en oruga que proporciona buena tracción, aunque hace al robot más pesado
 
-![oruga](../images/robtmk3.jpg)
+![oruga](./images/robtmk3.jpg)
 
 ### 3 ruedas: 2 motrices y 1 una rueda loca
 
-![3ruedas](../images/mBot-Ranger-Transformable-STEM-Educational-Robot-Kit-04-500x554.jpg)
+![3ruedas](./images/mBot-Ranger-Transformable-STEM-Educational-Robot-Kit-04-500x554.jpg)
 
 ### 2 ruedas en equilibro (Avanzado y con versión nueva de Ranger)
 
 Haremos un robot capaz de mantener el equilibro sobre 2 ruedas 
 
-![equilibrista](../images/mBot-Ranger-Transformable-STEM-Educational-Robot-Kit-05-500x554.jpg)
+![equilibrista](./images/mBot-Ranger-Transformable-STEM-Educational-Robot-Kit-05-500x554.jpg)
