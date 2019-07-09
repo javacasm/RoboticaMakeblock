@@ -28,8 +28,8 @@
 * [Trabajando por proyectos](./TrabajandoProyectos.md) (1h)
 
 #### Programación avanzada en Scratch
-* [Creando bloques: funciones](./ScratchFunciones.md) (1h)
-* [Utilizando Arrays](./ScratchArrays.md) (1h)
+* [Creando bloques (funciones)](./ScratchFunciones.md) (1h)
+* [Utilizando Arrays para almacenar](./ScratchArrays.md) (1h)
 
 #### Robótica
 * [Sensores II. Ejemplos](./Sensores_II.md) (2h)
