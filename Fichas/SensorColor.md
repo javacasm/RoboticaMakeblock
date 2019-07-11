@@ -16,4 +16,4 @@ Instalamos la extensión para el sensor de color
 
 y tendremos los nuevos bloques
 
-![bloques sensor color](../images/BloquesSensorColor)
+![bloques sensor color](../images/BloquesSensorColor.png)
