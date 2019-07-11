@@ -1,4 +1,4 @@
-## Interacción Scracht/MakeBlock
+## Interacción Scratch/MakeBlock
 
 [Scratch Interaccion](../Fichas/ScratchInteraccion.md)
 
