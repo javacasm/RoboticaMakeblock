@@ -8,6 +8,8 @@ Dado que la placa base de nuestro robot está basada en Arduino, lo que hacemos 
 
 Vemos como muchas de las paletas se desactivan y aparece el código Arduino que genera nuestro programar. Si subimos el código al robot no podremos volver a usar el modo "Scratch" hasta que le instalemos el firmware
 
+Cuando programamos en código Arduino es necesario usar unas librerías propias de Makeblock que podemos encontrar en su [github](https://github.com/Makeblock-official/Makeblock-Libraries)
+
 ||Modo Scratch|Modo Arduino|
 |---|---|---|
 |Programación en el PC| SI|NO|
