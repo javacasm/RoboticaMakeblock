@@ -8,7 +8,9 @@
 
 ## [Sensor de final de carrera](../Ficha/Microiterruptor.md)
 
-## [Sensor de color](../SensorColor.md)
+## [Sensor de color](../Fichas/SensorColor.md)
+
+## [Mando IR](../Fichas/SensorIR.md)
 
 ### Recursos
 
