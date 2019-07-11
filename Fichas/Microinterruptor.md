@@ -20,4 +20,6 @@ Ejemplos/Contador_Pulsador_Filtrado_mbot.sb2
 Ejemplos/Contador_Pulsador_Filtrado_ranger.sb2
 Ejemplos/Contador_Pulsador_mbot.sb2
 
+
+### Ejemplo: [Contador pulsaciones](../Fichas/ContadorPulsaciones.md)
 ### Ejemplo: [midiendo Tiempos](../Fichas/TiempoEntrePulsaciones.md)
