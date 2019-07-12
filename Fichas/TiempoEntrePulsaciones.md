@@ -2,17 +2,28 @@
 
 Vamos a medir el tiempo entre pulsaciones en un microinterruptor
 
-* La primera pulsación activar
+Detectamos la pulsación como una activación y la posterior desactivación (los dos flancos)
+
+* La primera pulsación reinicia el cronómetro
+* La segunda lo muestra en la pantalla de 7 segmentos   
 
 ![TiempoEntrePulsaciones](../images/TiempoEntrePulsaciones.png)
 
-[Codigo](../Ejemplos/TiempoEntrePulsaciones.sb2)
+[TiempoEntrePulsaciones.sb2](../Ejemplos/TiempoEntrePulsaciones.sb2)
 
 
 
 ### Modificaciones
 
-* Añade un segundo pulsador y haz que te
+* Añade un segundo pulsador y ver lo que tardamos en pulsador los dos
 
-Ejemplos/Pulsaciones_en_10_segundos.sb2
-Ejemplos/TiempoEntrePulsaciones.sb2
+
+## Pulsaciones en 10 segundos
+
+Vamos a ver ahora cuántas pulsaciones hacemos en 10 segundos
+
+
+![Pulsaciones_10_segundos.sb2](../images/Pulsaciones_10_segundos.sb2)
+
+[Pulsaciones_en_10_segundos.sb2](../Ejemplos/Pulsaciones_en_10_segundos.sb2)
+
