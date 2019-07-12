@@ -17,3 +17,6 @@ Instalamos la extensión para el sensor de color
 y tendremos los nuevos bloques
 
 ![bloques sensor color](../images/BloquesSensorColor.png)
+
+* Con el primero podemos extraer la componente básica RGB del color detectado  
+* Con el segundo de ellos vemos si se ha detectado un color concreto de los 6 disponibles
