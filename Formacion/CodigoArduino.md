@@ -17,3 +17,7 @@ Cuando programamos en código Arduino es necesario usar unas librerías propias 
 |Compatibilidad con Arduino|NO|100%|
 
 ### Ejemplo: reprogramar el ejemplo del siguelíneas usando código arduino
+
+### Extensión Arduino-offline
+
+La extensión
