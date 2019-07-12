@@ -22,4 +22,7 @@ Cada uno de los 3 primeros leds mostrarán gradaciones de cada color primario y 
 
 
 
-Ejemplos/RuletaLed.sb2
+[Ejemplo: RuletaLed.sb2](../Ejemplos/RuletaLed.sb2)
+
+![RuletaLed.sb2](../images/RuletaLed.sb2.png)
+
