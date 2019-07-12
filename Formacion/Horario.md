@@ -16,6 +16,7 @@
 
 ### Tarde
 #### Robótica
+* [Componentes Kit](../Fichas/ComponentesKit.md)
 * [Sensores I. Ejemplos](./Sensores_I.md) (2h)
 * Otras plataformas: Makey-Makey (1h)
     1. [Presentacion de Makey-Makey](./MakeyMakey/MakeyMakeyRecursos.md)
@@ -32,6 +33,7 @@
 * [Utilizando Arrays para almacenar](./ScratchArrays.md) (1h)
 
 #### Robótica
+* [Componentes Kit](../Fichas/ComponentesKit.md)
 * [Sensores II. Ejemplos](./Sensores_II.md) (2h)
 
 ### Tarde
