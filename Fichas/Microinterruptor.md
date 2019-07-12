@@ -20,9 +20,9 @@ Podremos controlar su estado con el bloque
 
 ## Ejemplo: contador de pulsaciones
 
-![Contador_Pulsador_mBot.sb2.png](../images/Contador_Pulsador_mBot.sb2)
+![Contador_Pulsador_mBot.sb2.png](../images/Contador_Pulsador_mBot.sb2.png)
 
-![Contador_Pulsador_ranger.sb2.png](../images/Contador_Pulsador_ranger.sb2)
+![Contador_Pulsador_ranger.sb2.png](../images/Contador_Pulsador_ranger.sb2.png)
 
 
 Ejemplos/Contador_Pulsador_Filtrado_mbot.sb2
