@@ -12,8 +12,6 @@ Cada uno de estos
 ![Conexion sensor temperatura e interruptor](../images/0-5897195d-600-Modulo-adattatore-RJ25-Me-RJ25-Adapter.jpg)
 
 
-
-
 ![Pinout conexion](../images/0-415dc528-503-Modulo-adattatore-RJ25-Me-RJ25-Adapter.jpg)
 
 
@@ -32,3 +30,5 @@ Una placa de prototipo tiene este conexionado interior
 (Si usáramos una placa de las de mayor tamaño las conexiones serían así)
 
 ![breadboard](../images/breadboard1.gif)
+
+Veremos los ejemplos de conexión con sensores concretos
