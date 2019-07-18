@@ -16,8 +16,19 @@ Cuando programamos en código Arduino es necesario usar unas librerías propias 
 |Velocidad|Baja|Alta|
 |Compatibilidad con Arduino|NO|100%|
 
+
+
+
+### Ejemplo: Velocidad del bucle
+
+Convertir el siguiente código a Arduino
+
+![Contador_Pulsador_sin_filtro](../images/Contador_Pulsador_sin_filtro.png)
+
+Podemos ver la diferencia entre la velocidad a la que se incrementa el contador...
+
 ### Ejemplo: reprogramar el ejemplo del siguelíneas usando código arduino
 
 ### Extensión Arduino-offline
 
-La extensión
+
