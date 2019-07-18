@@ -1,10 +1,8 @@
 ## Sensor de color
 
 
-Tenemos que instalar la extensión ColorMe
 
-
-https://www.makeblock.es/productos/sensor_color/
+[Documentación](https://www.makeblock.es/productos/sensor_color/)
 
 ![Sensor color](../images/makeblock_EL_COLOR.jpg)
 
@@ -20,3 +18,10 @@ y tendremos los nuevos bloques
 
 * Con el primero podemos extraer la componente básica RGB del color detectado  
 * Con el segundo de ellos vemos si se ha detectado un color concreto de los 6 disponibles
+
+### Ejemplo con código
+
+[Ejemplo test de color](../Ejemplos/Codigo/MeColorSensorTestOrion/MeColorSensorTestOrion.ino)
+
+
+[Ejemplo de uso de RGB](../Ejemplos/Codigo/RGBTest/RGBTest.ino)
