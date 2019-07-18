@@ -27,16 +27,16 @@ Formacion/VideojuegosScratch.md  50%
 ~~Fichas/AdaptadorArduino.md~~ 100%
 Fichas/ArquitecturaRobots.md 80%
 ~~Fichas/ComponentesKit.md~~ 100%
-Fichas/ContadorPulsaciones.md
+~~Fichas/ContadorPulsaciones.md~~ 100%
 Fichas/ControlMotores.md
 Fichas/ControlRemotoIR.md
 Fichas/ControlRemotoMovil.md
 Fichas/CreandoBloques.md
-Fichas/Iniciaciongramacion.md
+~~Fichas/Iniciaciongramacion.md~~ 100%
 ~~Fichas/IniciacionRobotica.md~~ 100%
 Fichas/InstalacionFirmware.md
 Fichas/mBlock.md
-Fichas/Microinterruptor.md
+~~Fichas/Microinterruptor.md~~ 100%
 Fichas/Potenciometro.md
 Fichas/ScratchDibujo.md
 Fichas/ScratchIniciacion.md
@@ -45,6 +45,6 @@ Fichas/SensorColor.md
 Fichas/SensorDistancia.md
 Fichas/SensorInfrarrojo.md
 Fichas/SensorLuz.md
-Fichas/TiempoEntrePulsaciones.md
+~~Fichas/TiempoEntrePulsaciones.md~~ 100%
 
 
