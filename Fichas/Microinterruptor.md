@@ -20,14 +20,14 @@ Podremos controlar su estado con el bloque
 
 ## Ejemplo: contador de pulsaciones
 
-![Contador_Pulsador_mBot.sb2.png](../images/Contador_Pulsador_mBot.sb2.png)
+Vamos a contar cuantas pulsaciones hacemos y lo mostraremos en la pantalla de 7 segmentos
+
+Es importante notar que tenemos que detectar tanto la pulsación como cuando dejamos de pulsador (en caso de no hacerlo se incrementaría muy rápidamente)
 
 ![Contador_Pulsador_ranger.sb2.png](../images/Contador_Pulsador_ranger.sb2.png)
 
+[Contador_Pulsador_Filtrado_ranger.sb2](../Ejemplos/Contador_Pulsador_Filtrado_ranger.sb2)
 
-Ejemplos/Contador_Pulsador_Filtrado_mbot.sb2
-Ejemplos/Contador_Pulsador_Filtrado_ranger.sb2
-Ejemplos/Contador_Pulsador_mbot.sb2
 
 
 ### Ejemplo: [Contador pulsaciones](../Fichas/ContadorPulsaciones.md)
