@@ -1,5 +1,7 @@
 ## MakeBlock & AppInventor
 
+### Extension mBot
+
 Añadimos la extensión mBot
 
 ![app-inventor-extension.png](../images/app-inventor-extension.png)
@@ -17,6 +19,22 @@ Añadimos la extensión mBot
 ![ai-block-connect-560x85.png](../images/ai-block-connect-560x85.png)
 
 ![ai-example-readsensor-560x139.png](../images/ai-example-readsensor-560x139.png)
+
+### App
+
+Vamos a hacer una App que controle el movimiento de un robot
+
+El diseño simplificado será
+
+![app-disenio](../images/app-disenio.png)
+
+Los bloques serán
+
+![app-blocks](../images/app-blocks.png)
+
+
+
+#### Interface
 
 ### Recursos
 
