@@ -12,6 +12,8 @@ Lo controlaremos con el siguiente bloque
 
 Donde seleccionaremos el conector, a qué led nos refierimos (o a todos) y las 3 componentes del color.
 
+![AdditiveColorCirclesCMYKpng.png](../images/AdditiveColorCirclesCMYKpng.png)
+
 ### Ejemplo: vamos a hacer un ciclo de color para ver como van cambiando
 
 Cada uno de los 3 primeros leds mostrarán gradaciones de cada color primario y el 4º niveles de grises
