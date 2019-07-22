@@ -3,12 +3,15 @@
 #include "SoftwareSerial.h"
 #include "Wire.h"
 
-MeBluetooth bluetooth(4);  //- Usamos el puerto 4 marcado con azul
+MeBluetooth bluetooth(5);  //- Usamos el puerto 5 marcado con azul
 MeDCMotor motorDriver1(M1); //- Un motor conectado en el puerto M1
+
+Me7SegmentDisplay disp(PORT_3);
 
 void setup()
 {
-    bluetooth.begin(9600);
+    bluetooth.begin(38400);
+    Serial.begin(9600);
 }
 
 int velocidad = 100;
@@ -17,12 +20,17 @@ int sentido = 1;  // Sentido de giro 1 o -1
 void loop()
 {
     char inDat;   
-    
-    if(bluetooth.available())
+    //Serial.println("No data");
+    if(bluetooth.available()>0)
     {   
+      disp.display(bluetooth.available());
+      delay(1000);
         //- caracter recibido por bluetooth convertido a mayúsculas
-        inDat = toUpperCase(bluetooth.read());
-        
+        inDat = bluetooth.read();
+
+        disp.display(inDat);
+        delay(1000);
+        Serial.println((int)(inDat));
         switch(inDat){
           case 'L':   //- Izquierda
             sentido=1;
