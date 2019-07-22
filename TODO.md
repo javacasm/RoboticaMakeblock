@@ -3,7 +3,7 @@
 ### FORMACION
 [EstudioVSProyectos.md](./Formacion/EstudioVSProyectos.md) 80%
 [Motivacion y ejemplos](./Formacion/MotivacionEjemplos.md) 90%
-[AppInventor_makeblock](./AppInventor/AppInventor_makeblock.md) 0% 
+[AppInventor_makeblock](./AppInventor/AppInventor_makeblock.md) 100% 
 [Sensores II](./Formacion/Sensores_I.md) 80%
 ~~[Sensores I](./Formacion/Sensores_II.md)~~ 100%
 ~~[Microbit](./Microbit/Microbit.md)~~  100%
