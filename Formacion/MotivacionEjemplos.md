@@ -7,6 +7,6 @@
 
 ### ¿Por qué trabajar con Robots?
 
-[¿Qué es la robótica?](./Fichas/IniciacionRobotica.md)
+[¿Qué es la robótica?](../Fichas/IniciacionRobotica.md)
 
-[Arquitectura robots](./Fichas/ArquitecturaRobots.md)
+[Arquitectura robots](../Fichas/ArquitecturaRobots.md)
