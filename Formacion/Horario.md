@@ -8,6 +8,7 @@
 #### Pedagogía
 * [Motivación y  Ejemplos](./MotivacionEjemplos.md) (1h)
 * [Aprendizaje de técnicas vs Desarrollo de proyectos](./EstudioVSProyectos.md) (1h)
+* [Organización del material](./OrganizacionMaterial.md)
 #### Scratch
 * Introducción [¿por qué usar Scratch?](./PorqueScratch.md) (1h)
 * [Programación orientada a Eventos](./ProgramacionEventos.md) (1h)
