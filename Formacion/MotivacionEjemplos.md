@@ -2,7 +2,7 @@
 
 ### ¿Por qué programar?
 
-[Introducción a la programación](../Fichas/IniciacionProgramacion.md)
+[Introducción a la programación](../Fichas/Iniciaciongramacion.md)
 
 
 ### ¿Por qué trabajar con Robots?
