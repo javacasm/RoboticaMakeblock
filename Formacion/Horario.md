@@ -22,7 +22,7 @@
 * Otras plataformas: Makey-Makey (1h)
     1. [Presentacion de Makey-Makey](./MakeyMakey/MakeyMakeyRecursos.md)
     1. [Makey-Makey con MakeBlock](./MakeyMakey/MakeyMakeyMakeblock.md)
-    1. [Presentacion de Makey-Makey](./MakeyMakey/MakeyMakeyRecursos.md)
+    1. [Recursos de Makey-Makey](./MakeyMakey/MakeyMakeyRecursos.md)
 
 ## Día 2
 ### Mañana
