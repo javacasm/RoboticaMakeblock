@@ -4,4 +4,4 @@ Vamos a contar cuantas pulsaciones realizamos en un [microinterruptor](../Fichas
 
 ![Pulsaciones_en_10_segundos.sb2](../images/Pulsaciones_en_10_segundos.png)
 
-[Código](../ejemplos/Pulsaciones_en_10_segundos.sb2)
+[Código](../Ejemplos/Pulsaciones_en_10_segundos.sb2)
