@@ -6,7 +6,7 @@
 
 ## [Sensor infrarrojo](../Fichas/SensorInfrarrojo.md)
 
-## [Sensor de final de carrera](../Ficha/Microiterruptor.md)
+## [Sensor de final de carrera](../Ficha/Microinterruptor.md)
 
 ## [Sensor de color](../Fichas/SensorColor.md)
 
