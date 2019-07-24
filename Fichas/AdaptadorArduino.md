@@ -1,6 +1,6 @@
 # Adaptador MakeBlock-Arduino
 
-Este módulo nos permite conectar a la CPU de MakeBlock componentes estándar usualmente usados con Arduino. Teneos por un lado el conector RJ25.
+Este módulo nos permite conectar a la CPU de MakeBlock componentes estándar usualmente usados con Arduino. Tenemos por un lado el conector RJ25.
 
 ![MakeBlock-ArduinoAdapter by MakeBlock](../images/MakeBlock-ArduinoAdapger.jpg)
 
@@ -25,6 +25,8 @@ Cada uno de estos
 
 Una placa de prototipo tiene este conexionado interior 
 ![breadboar mini](../images/MiniBreadBoardInside_bySparkfun.jpg)
+
+Conectaremos al conector 6
 
 
 (Si usáramos una placa de las de mayor tamaño las conexiones serían así)
