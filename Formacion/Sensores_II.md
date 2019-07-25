@@ -12,7 +12,7 @@
 
 ## [Mando IR](../Fichas/SensorIR.md)
 
-### Recursos
+### Recursos	
 
 
 [Sensores avanzados](https://www.instructables.com/id/Advanced-Makeblock-Sensors-DIY/)
