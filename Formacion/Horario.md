@@ -56,7 +56,7 @@
 
 ### Tarde
 #### Comunicaciones 
-* [Introducción a AppInventor (1h)](./AppInventor/AppInventor_tutorial.md)
-* [Controlando MakeBlock desde AppInventor 2h)](./AppInventor/AppInventor_makeblock.md)
-* [Recursos AppInventor](./AppInventor/AppInventorRecursos.md)
+* [Introducción a AppInventor (1h)](../AppInventor/AppInventor_tutorial.md)
+* [Controlando MakeBlock desde AppInventor 2h)](../AppInventor/AppInventor_makeblock.md)
+* [Recursos AppInventor](../AppInventor/AppInventorRecursos.md)
 
