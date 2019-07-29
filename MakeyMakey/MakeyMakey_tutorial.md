@@ -11,7 +11,7 @@
 
 
 
-![bananaPiano](./images/bananaPiano.jpg)
+![bananaPiano](../images/bananaPiano.jpg)
 
 Surgió de un proyecto de KickStarted
 
@@ -21,19 +21,19 @@ Surgió de un proyecto de KickStarted
 
 Por delante
 
-![front](./images/makey_makey_front.jpg)
+![front](../images/makey_makey_front.jpg)
 
 Por detrás
 
-![back](./images/back_MakeyMakey.png)
+![back](../images/back_MakeyMakey.png)
 
 ¿Qué necesitamos?
 
-![pinzas](./images/Aligators.jpg)
+![pinzas](../images/Aligators.jpg)
 
 ## [¿Cómo funciona?](http://makeymakey.com/howto.php)
 
-![howitworks](./images/makey-makey-how-it-works.jpg)
+![howitworks](../images/makey-makey-how-it-works.jpg)
 
 ![detalles](https://cdn.sparkfun.com/assets/b/0/0/9/1/52e94391ce395fb9278b4567.png)
 
