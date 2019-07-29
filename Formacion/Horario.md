@@ -20,8 +20,8 @@
 * [Componentes Kit](../Fichas/ComponentesKit.md)
 * [Sensores I. Ejemplos](./Sensores_I.md) (2h)
 * Otras plataformas: Makey-Makey (1h)
-    1. [Presentacion de Makey-Makey](../MakeyMakey/MakeyMakeyRecursos.md)
-    1. [Makey-Makey con MakeBlock](../MakeyMakey/MakeyMakeyMakeblock.md)
+    1. [Presentacion de Makey-Makey](../MakeyMakey/MakeyMakey_tutorial.md)
+    1. [Montajes con Makey-Makey](../MakeyMakey/MakeyMakey_Montajes.md)
     1. [Recursos de Makey-Makey](../MakeyMakey/MakeyMakeyRecursos.md)
 
 ## Día 2
