@@ -4,7 +4,7 @@
 
 ### José Antonio Vacas @javacasm
 
-![CCbySA](./images/CCbySQ_88x31.png)
+![CCbySA](../images/CCbySQ_88x31.png)
 
 
 # [Makey Makey](http://www.makeymakey.com/)
