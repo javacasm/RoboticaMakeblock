@@ -19,3 +19,7 @@
 [Pinza accionada por servo para robot makeblock](https://www.tinkercad.com/things/1bbqR13OB4j-micro-servo-claw-for-mbot)
 
 ![Pinza servo](../images/PinzaServoMakeblock.png)
+
+[Diseños en tinkercad](https://www.tinkercad.com/search?q=makeblock)
+
+[Diseños en thingiverse](https://www.thingiverse.com/search?q=makeblock&dwh=665d4006cc95025)
