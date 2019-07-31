@@ -1,12 +1,3 @@
-# Curso Superior de Innovación Pedagógica y Metodologías para el Aprendizaje.
-
-## Módulo de Programación y Robótica.
-
-### José Antonio Vacas @javacasm
-
-![CCbySA](../images/CCbySQ_88x31.png)
-
-
 # [Makey Makey](http://www.makeymakey.com/)
 
 
