@@ -4,6 +4,12 @@ El siguelíneas es una práctica habitual de robótica en la que queremos un rob
 
 Para ello usaremos uno o varios sensores infrarrojos para determinar lo movimientos del robot
 
+![detectores](https://www.programoergosum.com/images/cursos/223-mbot-programado-con-scratch-y-mblock/sensor-ir.png)
+
+(imagen de Programo Ergo Sum)
+
+![SiguelineasBasico.png](../images/SiguelineasBasico.png)
+
 ## Ejemplo 1 sensor
 
 Determinar el programa para con 1 sensor ser capaces de seguir un circuito sencillo siempre en un mismo sentido 
