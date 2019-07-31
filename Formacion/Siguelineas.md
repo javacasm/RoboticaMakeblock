@@ -8,6 +8,8 @@ Para ello usaremos uno o varios sensores infrarrojos para determinar lo movimien
 
 (imagen de Programo Ergo Sum)
 
+![SiguelineasBasico.png](../images/SiguelineasBasico.png)
+
 ## Ejemplo 1 sensor
 
 Determinar el programa para con 1 sensor ser capaces de seguir un circuito sencillo siempre en un mismo sentido 
