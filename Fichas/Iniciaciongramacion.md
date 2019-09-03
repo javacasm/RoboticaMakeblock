@@ -19,7 +19,7 @@ Code.org
 ## Recurso
 ## Code.org
 
-![code](./images/code.png)
+![code](../images/code.png)
 
 
 #### ¿no son todos .com?
@@ -28,18 +28,18 @@ Code.org
 
 ### Vamos a hacer pequeños programas para ayudar a nuestros amigos
 
-![personajes](./images/personajes_code.png)
+![personajes](../images/personajes_code.png)
 
 ### ¿Frozen? ¿Angry birds? ¿Flappy bird?
 
-![angry birds](./images/AngryBird_code.png)
+![angry birds](../images/AngryBird_code.png)
 
 [nivel 1](https://studio.code.org/hoc/1/	)
 
 
 ## [Blocky](https://developers.google.com/blockly/)
 
-![blocky](./images/BlocklyDemoImage.png)
+![blocky](../images/BlocklyDemoImage.png)
 
 
 
@@ -57,7 +57,7 @@ Code.org
 
 ## [Scratch](./Scratch.md)
 
-![interface](./images/scratch-interfaz.png)
+![interface](../images/scratch-interfaz.png)
 
 ## [AppInventor](./AppInventor.md)
 
