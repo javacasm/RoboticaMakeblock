@@ -12,6 +12,7 @@ Vamos a hacer un ejemplo sencillo donde mostremos el valor leído en el display 
 
 [Código](../Ejemplos/SensorLuz_LDR.sb2)
 
+![Protoboard](../images/ProtoboardInside.jpg)
 
 ![Montaje LDR](../images/LDR_bb.png)
 
