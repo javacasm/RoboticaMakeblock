@@ -2,6 +2,8 @@
 
 ## [Adaptador a módulos tipo Arduino](../Fichas/AdaptadorArduino.md)
 
+## [Servo](../Fichas/Servo.md)
+
 ## [Sensor de Luz](../Fichas/SensorLuz.md)
 
 ## [Sensor infrarrojo](../Fichas/SensorInfrarrojo.md)
