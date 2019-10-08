@@ -1,18 +1,18 @@
-## 3D: Recursos 3D, modelos y diseños para complementar nuestros robots
+# Estructura de la documentación
 
-## AppInventor: documentación sobre el entorno de programacion 
+## [3D](./3D/Modelos3D.md): Recursos 3D, modelos y diseños para complementar nuestros robots
 
-## Ejemplos:
+## [AppInventor](./AppInventor/): documentación sobre el entorno de programacion 
 
-## Fichas: fichas para actividades
+## [Ejemplos](./Ejemplos/): ejemplos desarrollados durante la formación
 
-## Formacion: estructura de la formación y enlaces al resto de la documentación
+## [Fichas](./Fichas/): fichas para actividades y de los componentes
 
-## Fritzing: diseños y esquemas
+## [Formacion](./Formacion/Horario.md): estructura de la formación y enlaces al resto de la documentación
 
-## MakeyMakey: documentación sobre la placa Makey-Makey
+## [MakeyMakey](./MakeyMakey/): documentación sobre la placa Makey-Makey
 
-## Microbit: ocumentación sobre la placa Microbit
+## [Microbit](./Microbit/Microbit.md): ocumentación sobre la placa Microbit
 
-## Recursos: Complementos a la documentación elaborada
+## [Recursos](./Recursos/Recursos.md): Complementos a la documentación elaborada
 
